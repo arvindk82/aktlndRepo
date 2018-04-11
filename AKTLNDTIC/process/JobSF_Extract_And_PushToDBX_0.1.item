@@ -570,7 +570,7 @@
   </node>
   <node componentName="tDropboxConnection" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="128" posY="0">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tDropboxConnection_1" show="false"/>
-    <elementParameter field="TEXT" name="ACCESS_TOKEN" value="&quot;gJYlP8rLk_0AAAAAAAAAkApsfWDlTPHbm3SPemrxiWFI6dmMHwho9C14LD82jLt9&quot;"/>
+    <elementParameter field="TEXT" name="ACCESS_TOKEN" value="context.token"/>
     <elementParameter field="CHECK" name="USE_PROXY" value="false"/>
     <elementParameter field="TEXT" name="PROXY_HOST" value="&quot;127.0.0.1&quot;" show="false"/>
     <elementParameter field="TEXT" name="PROXY_PORT" value="8087" show="false"/>
